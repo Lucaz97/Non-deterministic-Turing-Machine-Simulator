@@ -1,4 +1,4 @@
-# Non-deterministic-Turing-Machine-Simulator
+# Non deterministic Turing Machine Simulator
 University project for theoretical computer science and algorithms
 
 The goal of this project was to make the most efficient possible NDTM simulator.
